@@ -1,2 +1,2 @@
-# Fennec4Developers
-Demo code for our Kickstarter campaign Fennec4Developers
+# Fennec Development Board
+Demo code for our Kickstarter campaign Fennec: LoRa Development Board
